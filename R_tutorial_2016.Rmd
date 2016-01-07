@@ -3,13 +3,13 @@ title: 'BMI 217: R Tutorial'
 author: "Diego Calderon, Peyton Greenside, and Daniel Kim"
 date: "January 6, 2016"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     number_sections: no
     theme: readable
     toc: yes
     toc_depth: 3
+  pdf_document:
+    toc: yes
 ---
 
 # Getting started
